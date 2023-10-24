@@ -1,0 +1,16 @@
+.info {
+
+    ul {
+        text-align: center;
+    }
+
+    .icons {
+        display: flex;
+        justify-content: center;
+        img {
+            margin-left: 20px;
+            height: 50px;
+            width: 50px;
+        }
+    }
+}
